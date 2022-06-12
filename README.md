@@ -5,6 +5,9 @@ Presentation about this effort: [https://youtu.be/8YMZSf7-DCY](https://www.youtu
 
 Dataset with trained Roboflow model: https://universe.roboflow.com/posture-detection-dataset-bgskr/posture-nqt5y/5
 
+![image](https://user-images.githubusercontent.com/15019257/173214539-e40779b6-4893-4199-82b4-939fa1ed6487.png)
+
+
 # Additional information
 Will update this repo as I continue working on it :) 
 Steps i still need to take:
