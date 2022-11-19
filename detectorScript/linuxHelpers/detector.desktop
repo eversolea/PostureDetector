@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Detection
+Exec=gnome-terminal --window-with-profile=NAMEOFTHEPROFILE --command 'bash -c "sleep 10; /home/perusal-dev/startup2.sh; bash"'
+Terminal=true
+X-GNOME-Autostart-enabled=true

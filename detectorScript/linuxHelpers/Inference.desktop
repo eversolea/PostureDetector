@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Inference
+Exec=gnome-terminal --window-with-profile=NAMEOFTHEPROFILE --command 'bash -c "sleep 10; /home/perusal-dev/startup1.sh; bash"'
+Terminal=true
+Type=Application
+X-GNOME-Autostart-enabled=true
